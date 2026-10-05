@@ -1,0 +1,4 @@
+factor,low_level,low_mean_mpa,high_level,high_mean_mpa,high_minus_low_mpa
+layer_height_mm,0.16,43.9,0.28,41.8,-2.1
+print_speed_mm_s,35,43.45,65,42.25,-1.2
+infill_percent,60,41.5,100,44.2,2.7
